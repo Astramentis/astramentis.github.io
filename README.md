@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
+[![Stylish Portfolio Preview](https://i.imgur.com/bghmFDQ.jpg)](https://astramentis.github.io/)
 
 **[View Live Preview](https://astramentis.github.io/)**
 
